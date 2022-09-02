@@ -2,12 +2,11 @@
 
 <img src="./main.png" />
                              </a>
-<p align="center"> Design de interface de usuário usando HTML E CSS. </p>
 
 ## 🔥 Project Link
 
 
-<li><a href="https://joaovporto.github.io/youtube-clone/">Interface</li>
+<li><a href="https://joaovporto.github.io/youtube-clone/">YouTube</li>
 
 ## 🛠️ Technologies
 
